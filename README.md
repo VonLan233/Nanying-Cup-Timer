@@ -35,7 +35,7 @@ DebateTimeDown
 
 计时器特征
 ---------------
-*	使用了我写的Jquery插件 [jquery.countdown](https://github.com/icindy/jquery.countdown)
+*	使用了原作者写的Jquery插件 [jquery.countdown](https://github.com/icindy/jquery.countdown)
 *	4种提示声音
 *	3种计时类型
 *	上下切换,多页面共存
